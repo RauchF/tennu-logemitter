@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/RauchF/tennu-logemitter/issues"
   },
-  "homepage": "https://github.com/RauchF/tennu-logemitter#readme"
+  "homepage": "https://github.com/RauchF/tennu-logemitter#readme",
+  "dependencies": {
+    "after-events": "^1.0.1"
+  }
 }
