@@ -1,6 +1,6 @@
 {
   "name": "tennu-logemitter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Tennu logger which emits a signal whenever something gets logged. Passes through to the previously set logger.",
   "main": "plugin.js",
   "scripts": {
